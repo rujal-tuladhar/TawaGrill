@@ -132,11 +132,10 @@ section{
 }
 .btn-default{
     border: 2px solid var(--main-color);
-}
-.btn-default:hover{
     color: var(--white);
     background-color: var(--main-color);
 }
+
 
 /* animation keyframes */
 @keyframes zoomInOut{
